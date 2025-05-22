@@ -9,6 +9,8 @@ repositório para registrar meus aprendizados diários de programação(mundo do
 - [2025-05-15](/logs/2025-05-15.md)
 - [2025-05-17](/logs/2025-05-17.md)
 - [2025-05-20](/logs/2025-05-20.md)
+- [2025-05-20](/logs/2025-05-20.md)
+- [2025-05-21](/logs/2025-05-21.md)
 
 ## 📁 Códigos
 
