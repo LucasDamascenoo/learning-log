@@ -4,13 +4,12 @@ repositório para registrar meus aprendizados diários de programação(mundo do
 
 ## 📅 Logs
 
-- [2025-05-13](/logs/2025-05-13.md)
-- [2025-05-14](/logs/2025-05-14.md)
-- [2025-05-15](/logs/2025-05-15.md)
-- [2025-05-17](/logs/2025-05-17.md)
-- [2025-05-20](/logs/2025-05-20.md)
-- [2025-05-20](/logs/2025-05-20.md)
-- [2025-05-21](/logs/2025-05-21.md)
+- [2025-05-13 - Pathlib](/logs/2025-05-13.md)
+- [2025-05-14 - Pivot Table](/logs/2025-05-14.md)
+- [2025-05-15 - Manipulação e Análise Exploratória com Pandas](/logs/2025-05-15.md)
+- [2025-05-17 - Conceitos Básicos de Engenharia de Dados](/logs/2025-05-17.md)
+- [2025-05-17 - AWS IAM](/logs/2025-07-28.md)
+
 
 ## 📁 Códigos
 
